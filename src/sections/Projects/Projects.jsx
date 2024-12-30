@@ -1,7 +1,7 @@
 import styles from './ProjectsStyles.module.css';
 import multiShop from '../../assets/multiShop.jpg';
 import inpol from '../../assets/inpol.jpg';
-import TweeterTube from '../../assets/tweeterTube.jpg';
+import TweeterTube from '../../assets/tweeterTube.webp';
 // import fitLift from '../../assets/fitlift.png';
 import ProjectCard from '../../common/ProjectCard';
 

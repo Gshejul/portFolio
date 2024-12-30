@@ -29,13 +29,14 @@ function Skills() {
       <SkillList src={checkMarkIcon} skill="NodeJs" />
         <SkillList src={checkMarkIcon} skill="ExpressJs" />
         <SkillList src={checkMarkIcon} skill="MongoDB" />
-        <SkillList src={checkMarkIcon} skill="Mysql" />
+        <SkillList src={checkMarkIcon} skill="Postgres" />
       </div>
       <hr />
       <div className={styles.skillList}>
         <SkillList src={checkMarkIcon} skill="Git" />
         <SkillList src={checkMarkIcon} skill="Github" />
         <SkillList src={checkMarkIcon} skill="VS code" />
+        <SkillList src={checkMarkIcon} skill="Postman" />
       </div>
     </section>
   );
